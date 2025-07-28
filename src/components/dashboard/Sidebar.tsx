@@ -65,7 +65,7 @@ const Sidebar = ({ className, collapsed = false, onToggle }: SidebarProps) => {
           </svg>
         </div>
         {!isCollapsed && (
-          <span className="ml-3 text-xl font-semibold">BankSystem</span>
+          <span className="ml-3 text-xl font-semibold">NexBank</span>
         )}
       </div>
 
