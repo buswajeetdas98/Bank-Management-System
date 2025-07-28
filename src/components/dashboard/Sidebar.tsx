@@ -85,8 +85,8 @@ const Sidebar = ({ className, collapsed = false, onToggle }: SidebarProps) => {
         </Avatar>
         {!isCollapsed && (
           <div className="ml-3">
-            <p className="font-medium">John Doe</p>
-            <p className="text-xs text-blue-200">Premium Account</p>
+            <p className="font-medium">Shahid Shah</p>
+            <p className="text-xs text-blue-200">VIP Account</p>
           </div>
         )}
       </div>
